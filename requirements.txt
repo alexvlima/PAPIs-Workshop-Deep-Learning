@@ -1,0 +1,9 @@
+tensorflow-gpu==1.7.0
+keras
+pandas
+matplotlib
+flask
+requests
+ipython
+notebook
+sklearn

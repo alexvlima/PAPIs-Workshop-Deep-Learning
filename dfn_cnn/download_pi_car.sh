@@ -1,0 +1,3 @@
+wget https://www.dropbox.com/s/l8me1s1pv8zousx/self_drive_data_papis_workshop.zip
+unzip self_drive_data_papis_workshop.zip
+rm self_drive_data_papis_workshop.zip
